@@ -1,17 +1,25 @@
+
 <h1 align="center">Welcome to Devops Tooling Website Solution 👋</h1>
 <p>
   <a href="https://github.com/dinulhaque/devopstooling/blob/master/devops-tooling-website-solution.md" target="_blank">
     <img alt="Documentation" src="https://img.shields.io/badge/documentation-yes-brightgreen.svg" />
   </a>
+  
 </p>
+
+### 🏠 [Homepage](https://github.com/dinulhaque/devopstooling)
 
 > As a member oof a DevOps team, I will implement a tooling website solution which makes access to DevOps tools within corporate infrastructure easily accessible. Click on the link below to see the project notes.
 
 [Project Notes](devops-tooling-website-solution.md)
 
-### 🏠 [Homepage](https://github.com/dinulhaque/devopstooling)
+### Infrastructure High Level Design Architecture 
+
+![Infrastructure Architecture](devops-tooling-website-solution/Tooling-Website-Infrastructure.png)
 
 
+
+### Apache Webserver showing the deployed website
 ![Webserver screenshot](devops-tooling-website-solution/webserver-screenshot.png)
 
 ## Author
