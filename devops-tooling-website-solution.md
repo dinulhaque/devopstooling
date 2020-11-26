@@ -580,11 +580,11 @@ MariaDB [(none)]> SHOW Databases;
 
 Testing the browser on http://192.168.1.121
 
-![Devops%20Tooling%20Website%20Solution%2030169ba93f0f4216ab75b4026eef37d5/Untitled.png](Devops%20Tooling%20Website%20Solution%2030169ba93f0f4216ab75b4026eef37d5/Untitled.png)
+![Devops%20Tooling%20Website%20Solution%2030169ba93f0f4216ab75b4026eef37d5/Untitled.png](devops-tooling-website-solution/Untitled.png)
 
 When I tried to login using admin as username and admin as password I was getting the following message. 'Please match the requested format'
 
-![Devops%20Tooling%20Website%20Solution%2030169ba93f0f4216ab75b4026eef37d5/Untitled%201.png](Devops%20Tooling%20Website%20Solution%2030169ba93f0f4216ab75b4026eef37d5/Untitled%201.png)
+![Devops%20Tooling%20Website%20Solution%2030169ba93f0f4216ab75b4026eef37d5/Untitled%201.png](devops-tooling-website-solution/Untitled%201.png)
 
 To resolve this issue I had to amend the functions.php file and change the minimum character limit.
 
@@ -602,11 +602,11 @@ Pasted the following code as a replacement. Changing the password minimum charac
 
 Restarted httpd service and I can see the result as logged in.
 
-![Devops%20Tooling%20Website%20Solution%2030169ba93f0f4216ab75b4026eef37d5/Untitled%202.png](Devops%20Tooling%20Website%20Solution%2030169ba93f0f4216ab75b4026eef37d5/Untitled%202.png)
+![Devops%20Tooling%20Website%20Solution%2030169ba93f0f4216ab75b4026eef37d5/Untitled%202.png](devops-tooling-website-solution/Untitled%202.png)
 
 I have the same results for the remaining 2 web servers.
 
-![Devops%20Tooling%20Website%20Solution%2030169ba93f0f4216ab75b4026eef37d5/Untitled%203.png](Devops%20Tooling%20Website%20Solution%2030169ba93f0f4216ab75b4026eef37d5/Untitled%203.png)
+![Devops%20Tooling%20Website%20Solution%2030169ba93f0f4216ab75b4026eef37d5/Untitled%203.png](devops-tooling-website-solution/Untitled%203.png)
 
 Credits
 

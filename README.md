@@ -7,8 +7,12 @@
 
 > As a member oof a DevOps team, I will implement a tooling website solution which makes access to DevOps tools within corporate infrastructure easily accessible. Click on the link below to see the project notes.
 
+[Project Notes](devops-tooling-website-solution.md)
+
 ### 🏠 [Homepage](https://github.com/dinulhaque/devopstooling)
 
+
+![Webserver screenshot](devops-tooling-website-solution/webserver-screenshot.png)
 
 ## Author
 
